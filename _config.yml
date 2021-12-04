@@ -35,7 +35,7 @@ disqus:
   id:               "Chibi's Study Note"
 
 # URL
-url:                "https://chibi-study-diary.github.io" # the base hostname & protocol for your site
+url:                "https://chibi-chichi.github.io/" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "/main" # the subpath of your site, e.g. /blog
 
