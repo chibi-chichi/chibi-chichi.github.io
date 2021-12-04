@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "한글 문서 테스트"
-description: "한글 문서 테스트입니다."
+title: "한글 문서 스타일 샘플"
+description: "한글로 된 글의 샘플입니다."
 date: 2021-12-04
-tags: [샘플, 테스트, 스타일]
+tags: [샘플 포스트, 테스트, 스타일]
 comments: true
 share: true
 ---
 
-치붕이의 첫 포스팅일 것 같은 것
-
-제발 되라 제발
+이번엔 제발 되라 되겠지?
 
 ---
 
