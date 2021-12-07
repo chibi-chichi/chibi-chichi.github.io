@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 블로그 소개
 permalink: /about/
 ---
 
@@ -17,4 +17,5 @@ WIP
 ### 연락
 
 Email : [chibiriea@gmail.com](mailto:chibiriea@gmail.com)
+
 Twitter : [@chocolat_chibi](https://twitter.com/chocolat_chibi)
