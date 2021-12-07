@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+### 바로가기
+
+[블로그 소개](https://chibi-chichi.github.io/about/)
+[아직 미완성이예요!]()
