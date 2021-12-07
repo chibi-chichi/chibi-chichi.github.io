@@ -30,6 +30,8 @@ navigation:
     url: /tags
   - name: Theme
     url: https://github.com/AWEEKJ/kiko-now
+  - test: /Test
+    url: /test
 
 # Pagination
 paginate: 5
