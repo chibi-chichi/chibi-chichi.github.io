@@ -1,0 +1,18 @@
+---
+layout: post
+title: 마크다운(markdown) 문법 정리
+tags:
+  - markdown
+  - summary
+---
+
+# Markdown이란?
+
+[Markdown](https://whatismarkdown.com/)은 텍스트 기반의 마크업언어로 2004에 존 그루버에 의해 만들어졌다.
+쉽게 사용하고 읽을 수 있으며 HTML로 변환이 가능하다는 것이 장점.
+사용시에 특수기호나 문자등으로 간단하게 사용할 수 있어서 좋다.
+이런 블로그 포스트에도 Markdown을 사용해서 쓰니 무슨 문법이 있는지 알아보자.
+
+## 일단 잘 나오는지 테스트를 해보자
+
+```잘 나오나요?```
