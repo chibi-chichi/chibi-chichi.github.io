@@ -36,6 +36,14 @@ tags:
 ###### 하지만 샵 6개가 끝이다
 ####### 샵 7개 이상을 사용했을 때는 텍스트로 나온다.
 
+## 폰트 스타일 Styling text
+
+폰트 스타일에는 굵게(Bold), 기울임체(Italic), 취소선(Strikethrough)를 사용 가능하고 폰트 스타일을 섞어서 사용 가능하다.
+
+---
+
+
+---
 
 ## 인용 블록 Blockquote
 
@@ -101,3 +109,8 @@ tags:
 
 
 `추가 요망`
+ - [x] 아니 근데 이런게 진짜 됨?
+ - [ ] 되는 듯 한데
+
+
+  > 출처 : https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists
