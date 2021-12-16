@@ -234,6 +234,18 @@ _한 개의 언더바로 깔끔하게_
 예시)
 \*백슬래쉬 사용해서 마크다운을 무시하고 텍스트로 보여줍니다.
 
+## 리스트 Lists 
+
+표를 만들 때 사용합니다. ```추가 설명 요망```
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
 
 
   > 출처 : https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists
