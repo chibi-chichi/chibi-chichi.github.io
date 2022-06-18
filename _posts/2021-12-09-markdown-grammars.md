@@ -241,11 +241,10 @@ _한 개의 언더바로 깔끔하게_
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|----
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|=====
 | Foot1   | Foot2   | Foot3
+
 
 
   > 출처 : https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists
