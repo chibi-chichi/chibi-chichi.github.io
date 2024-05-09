@@ -1,11 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-### 바로가기
+## Hello!
+### My name is Jisup Bae,
+### the software designer and software developer
+### attend in University of California, Irvine.
+
+내일 이미지로 만들어서 넣기...
+
 
 [블로그 소개](https://chibi-chichi.github.io/about/)
+
 [아직 미완성이예요!]()
