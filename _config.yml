@@ -6,7 +6,7 @@
 name: Chibi's study diary
 
 # Short bio or description (displayed in the header)
-description: Korean slave
+description: Description need to add in here
 
 #
 # Flags below are optional
@@ -28,9 +28,7 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
-  - test: /Test
+  - name: Test
     url: /test
 
 # Pagination
@@ -96,7 +94,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 plugins:
