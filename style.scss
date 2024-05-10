@@ -8,13 +8,7 @@
 @import "reset";
 @import "open-color";
 @import "variables";
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 // Syntax highlighting @import is at the bottom of this file
-
-@font-face{
-   font-family:'DNFBitBitv2';
-   font-style:normal;font-weight:400;src:url('//cdn.df.nexon.com/img/common/font/DNFBitBitv2.otf')format('opentype')
-}
 
 /**************/
 /* BASE RULES */
@@ -25,9 +19,8 @@ html {
 }
 
 body {
-  font-family: "Noto Sans";
+  font-family: $base-font;
   color: $base-color;
-  background-color: #87ceeb42;
   line-height: 1.6;
 }
 
@@ -49,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2, h3, h5 {
-  font-family: DNFBitBitv2;
+  font-weight: bold;
 }
 
 h1 {
@@ -78,7 +71,6 @@ h6 {
 
 p {
   color: $text-color;
-  font-family: "Noto Sans";
   margin: 15px 0;
 }
 
