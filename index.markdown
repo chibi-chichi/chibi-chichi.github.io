@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Information_summary]({{site.baseurl}}/front-image.png)
+![Information_summary](images/front-image.png)
 
 
 
