@@ -2,4 +2,4 @@
 layout: home
 ---
 ## Welcome!
-![Information_summary](https://github.com/chibi-chichi/chibi-chichi.github.io/assets/78858443/97c9514e-ecb7-4766-9bb1-dd729e019a71)
+![Information_summary](https://github.com/chibi-chichi/chibi-chichi.github.io/assets/78858443/2a993731-1d97-4e07-afba-4684604de866)
