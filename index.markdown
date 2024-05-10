@@ -1,5 +1,5 @@
 ---
 layout: home
 ---
-
-![Information_summary](images/front-image.png)
+## Welcome!
+![Information_summary](./images/front-image.png)
