@@ -13,6 +13,7 @@ permalink: /about/
 ##### Eco-Zot Application Software Design
 
  ● Design Storyboard
+ 
  ● Design hi-fi application
 
 ### Contact info
