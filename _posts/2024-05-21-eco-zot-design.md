@@ -11,6 +11,7 @@ tags:
 #### Team: Var-temp
 #### Tools: Figma
 
+![eco-zot-logo](https://github.com/chibi-chichi/chibi-chichi.github.io/blob/6ab9edd413edcf2a2bdd4a4ca656c85a4b14c6b5/images/11.png)
 ## Problem Statement
 
 > We are developing an app that helps plan to commute in the most eco-friendly route to their destination for those who want to practice being environmentally friendly by using transportation/real-time data, tracking their carbon footprint, and providing the total carbon emissions the user has saved from their trips on the app so that, they can contribute to preserving the planet!
@@ -23,6 +24,7 @@ tags:
 * Reward sustainable behavior
 * Make the world a better and cleaner place to live
 
+![eco-zot-image](https://github.com/chibi-chichi/chibi-chichi.github.io/blob/6ab9edd413edcf2a2bdd4a4ca656c85a4b14c6b5/images/111.png)
 ## Comparative Analysis:
 
 #### McDonald’s
@@ -48,6 +50,6 @@ We got together in real-time and started designing our prototypes while taking 3
 
 ## Storyboard
 
-![storyboard_img]()
+![storyboard_img](https://github.com/chibi-chichi/chibi-chichi.github.io/blob/6ab9edd413edcf2a2bdd4a4ca656c85a4b14c6b5/images/1111.png)
 
 [Figma Link](https://www.figma.com/design/yXgw14anQvfK6vzLfnYSVM/Eco-Zot-Prototype?node-id=0-1&t=7Yfl9nBApNkWdXPn-0)
