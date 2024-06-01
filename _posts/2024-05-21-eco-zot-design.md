@@ -8,7 +8,6 @@ tags:
 
 # Eco-Zot
 #### Role: Scribe
-#### Team: Var-temp
 #### Tools: Figma
 
 ![eco-zot-logo](https://github.com/chibi-chichi/chibi-chichi.github.io/blob/6ab9edd413edcf2a2bdd4a4ca656c85a4b14c6b5/images/11.png)
@@ -44,9 +43,9 @@ Weaknesses: Doesn’t show the carbon emissions from each transportation method
 
 ## Design Process
 
-The group collectively spent a period of time searching through the internet to look for inspiration on what the app should look like. There were disagreements along the way, but we eventually settled on the app's color, font, and overall goal.
-I ran into issues where some features were difficult to implement or lacked color coordination. Teammates were also unfamiliar with Figma but we collaborated as a team to figure out the solutions for our design idea. We settled on a mix of light and dark green, beige white, and a pink accent to highlight important features to the user such as buttons or viewing data.
-We got together in real-time and started designing our prototypes while taking 30-minute breaks where we peer-reviewed and gave feedback on each other’s designs. I worked on the “Start Journey” page and the logo of the app. As a moderator, I also supervised my teammates with their designs whenever they needed help applying their design ideas to Figma. Later on after trial and error and integrating input into our new prototypes, we ultimately finished the final product design of Eco-Zot!
+In the beginning, I had a lot of difficulties presenting ideas as a group. While designing, we had conflicts about color harmony and implementing some other features, but we were able to compromise and come up with a good design together.
+I wasn't familiar with the design tool Figma, so I tried to contribute to the team by creating storyboards and user interfaces for the features I was responsible for, adapting to other people's designs and getting feedback. I created a setup page, and a simple storyboard, and envisioned how people would use Eco-Zot. After a lot of trial and error, I was able to complete the final product design!
+
 
 ## Storyboard
 
